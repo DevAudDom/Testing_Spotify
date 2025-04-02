@@ -7,6 +7,7 @@ This repository contains the software testing suite for Spotify, developed as pa
 Plan to Fulfill Requirements
 a.Your project could be an application of Integration, System, End-to-end, Acceptance or regression testing
   - We will perform End-to-end testing by logging in, adding a liked song and playing it from the playlist
+  - 
 b. Must include at least 8-unit tests (in separate classes)
 LoginTest.java
 
